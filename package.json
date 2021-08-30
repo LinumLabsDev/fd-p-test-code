@@ -1,5 +1,5 @@
 {
-  "name": "fairdrive-connect",
+  "name": "test-app",
   "version": "0.0.1",
   "description": "Linum Labs Internal Boilerplate",
   "author": "Kent Fourie",
@@ -64,9 +64,5 @@
   "files": [
     "dist"
   ],
-  "devDependencies": {},
-  "peerDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  }
+  "devDependencies": {}
 }
